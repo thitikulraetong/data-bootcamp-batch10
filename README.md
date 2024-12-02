@@ -8,3 +8,7 @@ my data science ans analytics projects
 3. R programming
 4. Looker GA4 Dashboard
 5. Linear regression model using caret
+
+## contact me
+
+## image
